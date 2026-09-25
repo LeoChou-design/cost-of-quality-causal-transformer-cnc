@@ -1,0 +1,38 @@
+{
+  "auroc_TWF: RandomForest vs CausalTransformer (final config)": {
+    "RandomForest": 0.9121935730950969,
+    "CausalTransformer (final config)": 0.958628638749425,
+    "t": 3.648149540313403,
+    "p": 0.008198011568274308
+  },
+  "auroc_TWF: GradientBoosting vs CausalTransformer (final config)": {
+    "GradientBoosting": 0.9548777590605941,
+    "CausalTransformer (final config)": 0.958628638749425,
+    "t": 0.6929024193318508,
+    "p": 0.5106978357192716
+  },
+  "auroc_OSF: RandomForest vs CausalTransformer (final config)": {
+    "RandomForest": 0.8772873361246847,
+    "CausalTransformer (final config)": 0.9321282203990469,
+    "t": 3.2572406625679258,
+    "p": 0.013917332115454458
+  },
+  "auroc_OSF: GradientBoosting vs CausalTransformer (final config)": {
+    "GradientBoosting": 0.8983929911165809,
+    "CausalTransformer (final config)": 0.9321282203990469,
+    "t": 2.9243532167021367,
+    "p": 0.022201988236316035
+  },
+  "wear_r2: RandomForest vs CausalTransformer (final config)": {
+    "RandomForest": 0.85519620379637,
+    "CausalTransformer (final config)": 0.8716256742676098,
+    "t": 1.1986329112077385,
+    "p": 0.26967040541694226
+  },
+  "wear_r2: GradientBoosting vs CausalTransformer (final config)": {
+    "GradientBoosting": 0.8501036076631123,
+    "CausalTransformer (final config)": 0.8716256742676098,
+    "t": 1.8040003234071476,
+    "p": 0.11421372400380365
+  }
+}
