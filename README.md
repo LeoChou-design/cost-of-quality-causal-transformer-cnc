@@ -108,11 +108,7 @@ python src/make_figures.py
 - **資料集**（`data/`）：UCI Machine Learning Repository 的 AI4I 2020 預測性維護資料集，CC BY 4.0，引用 Stephan & Matzka (2020)，見 `data/README_data.md`。
 - **參考文獻**（`references/`）：著作權歸各作者與出版方所有，見 `references/README.md`。
 
-## 九、致謝
-
-誠摯感謝國科會大專學生研究計畫匿名審查專家提出的寶貴意見，為本研究之品質成本論述與驗證架構奠定堅實基礎。
-
-## 十、AI 使用揭露
+## 九、AI 使用揭露
 
 所有研究設計、方法與結論皆由本人獨立主導。AI 工具作為輔助，用於英文文法潤飾、對本人撰寫之程式進行除錯與重構、將實驗筆記本整理為可執行腳本，以及撰寫與翻譯 repo 文件。本人已逐行驗證所有代碼、結果與文稿，對研究真實性負完全責任。
 
@@ -228,10 +224,6 @@ The following are **not** covered by that license and remain under their own ter
 - **Dataset** (`data/`): UCI Machine Learning Repository, AI4I 2020 Predictive Maintenance Dataset, CC BY 4.0 — cite Stephan & Matzka (2020), see `data/README_data.md`.
 - **References** (`references/`): copyright of the original authors/publishers — see `references/README.md`.
 
-## 9. Acknowledgments
-
-Heartfelt thanks to the anonymous reviewers of the National Science and Technology Council (NSTC) College Student Research Program, whose valuable comments laid a solid foundation for the cost-of-quality argument and validation framework of this study. (English translation of the Chinese text above.)
-
-## 10. AI Use Disclosure
+## 9. AI Use Disclosure
 
 All research design, methods, and conclusions were led and completed independently by the author. AI tools were used as an aid for English grammar polishing, debugging and refactoring of code written by the author, organizing experiment notebooks into runnable scripts, and drafting and translating the documentation in this repository. The author has verified all code, results, and manuscripts line by line and takes full responsibility for the authenticity of the research. (English translation of the Chinese text above.)
