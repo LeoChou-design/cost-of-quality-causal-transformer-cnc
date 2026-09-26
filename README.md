@@ -110,7 +110,7 @@ python src/make_figures.py
 
 ## 九、致謝
 
-誠摯感謝指導教授國立臺灣科技大學王鵬凱老師在研究設計與論文品質上的悉心指導與嚴格審查；亦由衷感謝國科會大專學生研究計畫匿名審查專家提出的寶貴意見，為本研究之品質成本論述與驗證架構奠定堅實基礎。
+誠摯感謝國科會大專學生研究計畫匿名審查專家提出的寶貴意見，為本研究之品質成本論述與驗證架構奠定堅實基礎。
 
 ## 十、AI 使用揭露
 
@@ -230,7 +230,7 @@ The following are **not** covered by that license and remain under their own ter
 
 ## 9. Acknowledgments
 
-Sincere thanks to my advisor, Prof. Peng-Kai Wang of National Taiwan University of Science and Technology, for careful guidance and rigorous review of the research design and paper quality. Heartfelt thanks also to the anonymous reviewers of the National Science and Technology Council (NSTC) College Student Research Program, whose valuable comments laid a solid foundation for the cost-of-quality argument and validation framework of this study. (English translation of the Chinese text above.)
+Heartfelt thanks to the anonymous reviewers of the National Science and Technology Council (NSTC) College Student Research Program, whose valuable comments laid a solid foundation for the cost-of-quality argument and validation framework of this study. (English translation of the Chinese text above.)
 
 ## 10. AI Use Disclosure
 
